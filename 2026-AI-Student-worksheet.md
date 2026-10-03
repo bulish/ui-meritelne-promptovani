@@ -26,6 +26,7 @@ Complete this worksheet before full data collection. Submit the initial version 
 - [x] Conclusions are scoped to this corpus (MENDELU-linked articles) and to the specific product versions recorded during data collection
 
 **Worksheet version and date:** V1, 3.10.2026
+
 ---
 
 ## B. Research question
@@ -98,15 +99,14 @@ BERTScore does not establish factual truthfulness — a summary can be semantica
 **Comparison design:**
 
 - [x] Product-capability design: each system uses its own ordinary web tools under one shared protocol (no attempt to equalize underlying model access); every run starts a fresh conversation with a single user turn, memory disabled where possible
-- [ ] (other designs not used)
 
 **What cannot be made equal?**
 
-Web search/retrieval capability, access to and handling of sources, and prior exposure to the article during training differ across products and cannot be equalized.
+Web search/retrieval capability, prior exposure to the article during training, and exact prompt phrasing (as each interface may require slight instructional tweaks to properly access the linked source) differ across products and cannot be equalized.
 
 **How will this limitation affect interpretation?**
 
-Results are interpreted as a comparison of products (including their search/retrieval behavior), not as an isolated comparison of underlying model capability.
+Results are interpreted as a comparison of the overall consumer products (including their search behavior and required product-specific prompting), rather than a strictly controlled comparison of underlying model capability on an identical text string.
 
 ---
 
@@ -158,27 +158,36 @@ Summarize the following scientific article in English in 150–200 words. Use th
 #### Structured prompt
 
 ```
-[Same input and length requirement as the baseline, plus:]
-- Capture the article's goal, methods, main results, and conclusions.
-- Preserve numbers and technical/domain terms.
-- Do not rely on outside/external knowledge.
-- Do not invent information that is missing from the article.
-- Support each main claim with a reference to the specific section or passage of the article.
+Role: Act as an expert academic researcher and science communicator.
+
+Context: You are extracting core information from a scientific article to create a precise summary for a research database. Your summary will be evaluated on its strict factual adherence to the provided text.
+
+Task: Summarize the provided scientific article in English in 150–200 words. 
+
+Guidelines:
+- Structure the text to explicitly capture the article's Goal, Methods, Main results, and Conclusions.
+- Preserve specific numbers, statistics, and technical/domain terms exactly as they appear.
+- Use the supplied article and its linked full text strictly. Do not use its abstract or other summaries.
+- Do not rely on outside/external knowledge and do not invent information missing from the article.
+
+Output format: 
+1. The 150-200 word summary.
+2. A bulleted list of specific source sections or passages from the article that support your main claims.
 ```
 
 #### Optimized prompt
 
 ```
-[To be finalized: a revision of the structured prompt, adjusted only using the development and validation sets. Changes will be logged (see section G) and one common version will be frozen before the held-out test set is opened.]
+[To be finalized: a revision of the structured prompt, adjusting the Role, Context, Task, or Guidelines based only on errors observed in the development and validation sets. Changes will be logged (see section G) and one common optimized version will be frozen before the held-out test set is opened.]
 ```
 
 **What remains constant?**
 
-The underlying article text (abstract and other summaries removed), the 150–200 word length requirement, and the requirement to support claims with a reference to the source.
+The underlying article text (abstract and other summaries removed), the core task (summarization), the 150–200 word length requirement, and the requirement to support claims with a reference to the source.
 
 **What is intentionally different?**
 
-The structured prompt adds explicit structural guidance (goal/methods/results/conclusions, preserving numbers/terms, no outside knowledge, no fabrication); the optimized prompt further refines this structured version based on observed dev/validation errors.
+The baseline prompt is a naive, zero-shot instruction. The structured prompt introduces standardized prompt engineering practices: it assigns a specific Role (expert researcher) and Context (database entry evaluated on adherence), defines explicit Guidelines (goal/methods/results/conclusions, preserving numbers/terms, no outside knowledge), and separates the Output format. The optimized prompt will further refine this standardized structure based on observed dev/validation errors.
 
 **When will prompts be frozen?**
 
