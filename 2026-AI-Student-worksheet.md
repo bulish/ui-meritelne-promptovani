@@ -178,7 +178,7 @@ Output format:
 #### Optimized prompt
 
 ```
-[To be finalized: a revision of the structured prompt, adjusting the Role, Context, Task, or Guidelines based only on errors observed in the development and validation sets. Changes will be logged (see section G) and one common optimized version will be frozen before the held-out test set is opened.]
+...
 ```
 
 **What remains constant?**

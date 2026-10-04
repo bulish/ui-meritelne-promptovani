@@ -1,4 +1,24 @@
-# Structured V1
+# Baseline
+Summarize the following scientific article in English in 150–200 words. Use the supplied article and its linked full text only; do not use its abstract or other summaries. After the summary, list source sections supporting your main claims.
+
+# Structured
+Role: Act as an expert academic researcher and science communicator.
+
+Context: You are extracting core information from a scientific article to create a precise summary for a research database. Your summary will be evaluated on its strict factual adherence to the provided text.
+
+Task: Summarize the provided scientific article in English in 150–200 words. 
+
+Guidelines:
+- Structure the text to explicitly capture the article's Goal, Methods, Main results, and Conclusions.
+- Preserve specific numbers, statistics, and technical/domain terms exactly as they appear.
+- Use the supplied article and its linked full text strictly. Do not use its abstract or other summaries.
+- Do not rely on outside/external knowledge and do not invent information missing from the article.
+
+Output format: 
+1. The 150-200 word summary.
+2. A bulleted list of specific source sections or passages from the article that support your main claims.
+
+# V1
 
 Role: Act as an expert academic researcher and science communicator.
 
