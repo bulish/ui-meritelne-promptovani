@@ -1,0 +1,12 @@
+1. Summary (186 words)
+Goal: The study examines the possible impact of early retirement on the size of the shadow economy in Austria, the Czech Republic, Germany, Hungary, Poland, the Slovak Republic, and Slovenia, while also assessing potential tax losses associated with informal employment and measuring the shadow economy for 2010–2024.  
+Methods: The research is a quantitative empirical analysis based on secondary macroeconomic data. It applies a MIMIC (Multiple Indicators Multiple Causes) model, treating the shadow economy as a latent variable. The model was estimated in Stata 19 using the SEM (structural equation modelling) module and the Maximum Likelihood method. Annual data from 2010–2024 were obtained mainly from the World Bank, supplemented by OECD and national governmental sources.  
+Main results: Retirement age was not a statistically significant determinant of the shadow economy in most analysed countries. Social security contributions were statistically significant in all countries except Slovakia and had an inverse relationship with the shadow economy in five of six countries. Self-employment also showed an inverse relationship in Germany, Austria, and Poland. Personal income tax had a statistically significant positive effect in Czechia, Hungary, and Slovakia.  
+Conclusions: The shadow economy is driven primarily by country-specific economic, regulatory, and institutional conditions; retirement-age reforms alone are insufficient.
+2. Supporting passages
+- Objectives: The study’s main objective and three specific objectives, including the relationship between early retirement and the shadow economy and analysis of 2010–2024 data.     2026_83688_zaverecna_prace
+- Methodology: Description of the quantitative empirical analysis, MIMIC model, Stata 19/SEM, structural and measurement equations.     2026_83688_zaverecna_prace
+- Data: Countries, 2010–2024 observation period, and World Bank/OECD/national data sources.     2026_83688_zaverecna_prace
+- Social security contributions: Discussion of statistical significance across countries and the inverse relationship in five of six countries.     2026_83688_zaverecna_prace
+- Country results: Czechia’s statistically significant effects of personal income tax and social security contributions.     2026_83688_zaverecna_prace
+- Conclusion: Overall finding that retirement age is not a key determinant and that effective policies require attention to institutional quality and incentive structures.     2026_83688_zaverecna_prace

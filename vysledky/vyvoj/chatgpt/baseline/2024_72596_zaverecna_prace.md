@@ -1,0 +1,11 @@
+Summary
+The dissertation develops a European value-based concept and measurement model for digital sovereignty, motivated by Europe’s growing dependence on non-European ICT technologies and suppliers. It argues that digital sovereignty should not mean technological autarky or isolation, but the ability to retain freedom of choice and control while participating in global technological exchange.     2024_72596_zaverecna_prace
+The study combines literature research with five expert interviews and constructs a Digital Sovereignty Index (DSI). The model comprises three dimensions: state sovereignty, key enabling technologies (KETs), and technological sovereignty, operationalised through ten sub-components and 30 publicly available parameters.     2024_72596_zaverecna_prace     2024_72596_zaverecna_prace The selected index configuration uses raw data, equal weighting and mean imputation.     2024_72596_zaverecna_prace
+The DSI ranks the USA first, followed by Ireland and Norway; all EU-27 countries appear within the global top 50.     2024_72596_zaverecna_prace Robustness testing and comparisons with existing indices provide supporting validation.     2024_72596_zaverecna_prace The dissertation recommends differentiated national measures and, above all, a coordinated EU digital and industrial policy focused on ICT skills, R&D, start-ups, digital trade, and KETs.     2024_72596_zaverecna_prace
+Source sections supporting the main claims
+- §5.2–5.3, Empirical analysis and results — expert interviews and the three-part DSI model.     2024_72596_zaverecna_prace
+- §5.4, Secondary data — operationalisation through measurable parameters.     2024_72596_zaverecna_prace
+- §5.10–5.13, Aggregation and DSI calculation — index construction, rankings and results.     2024_72596_zaverecna_prace
+- §5.14–5.15, Verification and validation — stress tests and comparison with existing indices.     2024_72596_zaverecna_prace
+- §6, Recommendations — national and EU-level fields of action.     2024_72596_zaverecna_prace
+- §8, Conclusions — overall findings and contributions.     2024_72596_zaverecna_prace

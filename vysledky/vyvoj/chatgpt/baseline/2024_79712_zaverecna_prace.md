@@ -1,0 +1,11 @@
+Summary
+This thesis develops and evaluates a web-based text annotation system that uses large language models (LLMs) to reduce the manual effort involved in Named Entity Recognition (NER) and sentiment analysis. The study identifies conventional annotation as time-consuming and inconsistent and therefore proposes semi-automated workflows combining model predictions with human review. The application supports project and label creation, dataset import, annotation, collaboration, model fine-tuning, and data export. Its implementation combines a user-friendly interface with GPT-4, BERT, and TinyBERT for annotation assistance.     2024_79712_zaverecna_prace
+Testing compared model-assisted annotation with gold-standard datasets. For sentiment analysis, GPT-4 and fine-tuned BERT were evaluated on 300 samples, while NER predictions from GPT-4 and TinyBERT were assessed using accuracy, precision, recall, and F1-score. The reported tests indicate that GPT-4 performed strongly in zero-shot sentiment analysis, whereas TinyBERT was particularly effective for structured NER. For one NER document, TinyBERT achieved 100% across all four metrics, compared with 88.89% accuracy and 50% precision, recall, and F1-score for GPT-4.     2024_79712_zaverecna_prace     2024_79712_zaverecna_prace
+The thesis concludes that LLM-assisted annotation can improve efficiency while retaining human oversight, but highlights hallucinations, computational costs, contextual difficulties, and limitations on custom fine-tuning datasets.     2024_79712_zaverecna_prace
+Source sections supporting the main claims
+- §3 Methodology — application design, model selection, implementation, and evaluation.     2024_79712_zaverecna_prace
+- §4.5 Testing — application testing and model comparisons.     2024_79712_zaverecna_prace
+- §4.5.1 Sentiment analysis with GPT-4 and BERT — 300-sample evaluation and comparison.     2024_79712_zaverecna_prace
+- §4.5.2 Named entity recognition with GPT-4 and TinyBERT — quantitative NER results.     2024_79712_zaverecna_prace
+- §5 Discussion / §5.1 Limitations — usability, efficiency, hallucinations, computational constraints, contextual limitations, and fine-tuning restrictions.     2024_79712_zaverecna_prace
+- §6 Conclusion — overall contribution and capabilities of the developed system.

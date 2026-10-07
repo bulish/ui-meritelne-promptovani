@@ -1,1 +1,12 @@
-
+Summary
+The thesis Development and Establishment of European Forest Machine Operator Qualification Standards examines the need for harmonised vocational qualifications for forest machine operators across Europe. Increasing demand for skilled operators, rising accident risks and inconsistencies in national training and certification systems highlight the need for common standards to improve occupational safety and facilitate cross-border employment.
+The study analyses existing occupational standards in the United Kingdom, Czech Republic and Slovenia using qualitative content, comparative, thematic and interpretive analysis. Based on this comparison, it develops European Forest Machine Operator (EFMO) standards for harvesters, forwarders and forestry tractors (skidders). The standards integrate practical performance criteria and underpinning knowledge, organised into five competence levels covering work preparation, machine inspections, safety checks, operations and post-use inspections. They are aligned with European Qualifications Framework (EQF) Level 4.
+The standards were developed with international stakeholder involvement, under ABA International, and refined through 14 pilot tests, primarily in Ireland. By March 2022, 65 operators had successfully completed independent assessments, and two of the three qualifications were in live market use.
+The thesis concludes that EFMO qualifications provide a practical framework for improving safety, recognising professional competence and supporting workforce mobility. Further testing and ongoing development are recommended to ensure their long-term relevance.
+Source sections supporting the main claims
+- Section 1 – Introduction: Growing demand, occupational risks and the need for European-wide qualifications.
+- Section 3 – Literature Review: Differences in national standards, safety concerns and the rationale for harmonisation.
+- Section 4 – Materials and Methods: Comparative methodology, standards mapping and stakeholder involvement.
+- Section 5 – Results: Development of EFMO standards, EQF alignment and pilot-testing outcomes.
+- Section 6 – Discussion: Interpretation of the findings, benefits and limitations of the qualifications.
+- Section 7 – Conclusion: Achievement of objectives and recommendations for implementation.

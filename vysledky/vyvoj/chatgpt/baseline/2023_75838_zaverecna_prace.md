@@ -1,0 +1,10 @@
+Summary
+This study examines how Key Opinion Leaders (KOLs) influence Vietnamese consumers’ purchasing intentions in the food and beverage (F&B) sector. Using 12 in-depth interviews and an online survey of 210 Vietnamese consumers, the research investigates consumption after exposure to KOL recommendations and identifies characteristics that affect purchase intention.     2023_75838_zaverecna_prace
+The results show that 81.4% of respondents had purchased or experienced an F&B product or establishment after seeing a KOL review. Trustworthiness was the strongest measured factor, while authentic content, expertise, and consumers’ fondness for KOLs also showed substantial influence. Followers’ comments and reactions had a moderate effect, whereas popularity had only an average influence in the survey. Appearance was relatively unimportant. Private-life scandals had a moderate but potentially negative effect on consumer trust. The study also found that following social-media trends was significantly associated with age, with younger consumers showing greater interest.     2023_75838_zaverecna_prace
+Overall, the thesis concludes that KOL marketing can positively affect Vietnamese F&B consumption, particularly when KOLs are perceived as trustworthy and authentic. However, the authors acknowledge limitations including sample size, age imbalance, and language-translation issues.     2023_75838_zaverecna_prace
+Source sections supporting the main claims
+- 4. Method and materials — research design, interviews, and survey sample.     2023_75838_zaverecna_prace
+- 5.2 Consumption situation following KOLs — purchasing/experience after KOL exposure and social-media trends.     2023_75838_zaverecna_prace
+- 5.3 Factors of KOLs influencing purchase intention — trustworthiness, popularity, expertise, authenticity, appearance, follower interaction, fondness, and scandals.     2023_75838_zaverecna_prace
+- 7. Discussion — interpretation and study limitations.     2023_75838_zaverecna_prace
+- 8. Conclusion — overall findings and implications.     2023_75838_zaverecna_prace

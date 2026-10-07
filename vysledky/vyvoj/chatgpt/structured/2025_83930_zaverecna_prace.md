@@ -1,0 +1,11 @@
+1. Summary
+Goal: The thesis analyzes the evolution of the Czech Republic’s foreign policy toward the Srebrenica genocide from 1995 to 2025, focusing on how historical, political, and international factors shaped diplomatic discourse and on its alignment with the European Union.  
+Methods: It uses a qualitative case study and secondary data analysis, combining literature review, official Czech, EU and UN documents, media sources, two months of field research in Bosnia and Herzegovina, and three semi-structured interviews with experts from academia, diplomacy, and the Srebrenica Memorial Center.     2025_83930_zaverecna_prace  
+Main results: Czech policy evolved from initial uncertainty in 1995–1999 toward recognition, justice, and remembrance. Czechia officially recognized Srebrenica as genocide in 2005, increasingly aligned with EU policy during the 2010s, and supported the 2024 United Nations General Assembly resolution. Historical experiences, political leadership, and ties to the UN, NATO, and EU influenced this development. Czech and EU policies show strong alignment, although the EU has more institutionalized mechanisms for education and prevention, including Erasmus+ and the Genocide Network.
+Conclusions: Czechia’s policy became more consistent and principled, while domestic political ambivalence remained a source of tension.
+2. Supporting source sections/passages
+- 1.3 Methodology — qualitative case study, secondary data analysis, documentary sources, and research materials.     2025_83930_zaverecna_prace
+- FINDINGS — evolution of Czech policy from 1995–2024 and recognition of genocide in 2005.     2025_83930_zaverecna_prace
+- FINDINGS — historical, political, and international factors influencing Czech policy.     2025_83930_zaverecna_prace
+- FINDINGS — Czech–EU alignment, 2005 versus 2009 recognition, ICTY/ICC support, and differences in education and prevention mechanisms.     2025_83930_zaverecna_prace
+- CONCLUSION — overall interpretation of the policy shift, EU alignment, and continuing role of memory and accountability.     2025_83930_zaverecna_prace

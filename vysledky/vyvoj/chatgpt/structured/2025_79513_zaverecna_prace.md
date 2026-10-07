@@ -1,0 +1,11 @@
+1. Summary
+Goal: The thesis evaluates and compares the real-world performance of two photovoltaic (PV) power plants, Power Plant A and Power Plant B, using operational parameters and key performance indicators (KPIs) over a two-year monitoring period (2023 and 2024).  
+Methods: Real monitoring data were extracted from the SolarEdge monitoring platform and evaluated using KPIs including self-consumption, grid dependency, specific yield, Performance Ratio (PR), and Capacity Utilization Factor (CUF). Calculations followed the ČSN EN IEC 61724-1 ed. 2 standard. Measured production was also compared with PVGIS simulation data to identify deviations.  
+Main results: Power Plant A, with 39.8 kWp capacity and a 25° tilt, achieved 74.84% self-consumption, 41.35% grid dependency, and PR of 0.615 in 2023 and 0.622 in 2024. Power Plant B, rated at 139.44 kWp with a 15° tilt, improved from PR 0.656 to 0.770 and CUF from 9.57% to 11.23%.  
+Conclusions: Both systems operated almost efficiently within their design constraints. Power Plant A was close to optimal, while Power Plant B retained greater potential for improvement, particularly through load shifting, energy storage, soiling monitoring, and operational planning.     2025_79513_zaverecna_prace     2025_79513_zaverecna_prace
+2. Supporting source sections/passages
+- Section 3, “Aim of Diploma Thesis” — defines the comparative objective, two-year monitoring period, KPIs, and PVGIS comparison.     2025_79513_zaverecna_prace
+- Section 4, “Methodology and Materials,” including 4.1–4.3 — describes SolarEdge data collection, comparative analysis, ČSN EN IEC 61724-1 ed. 2, and the evaluated KPIs.     2025_79513_zaverecna_prace
+- Section 5, “Results and Discussion” — reports the measured energy production, consumption, self-consumption, grid dependency, and performance indicators for both plants.     2025_79513_zaverecna_prace
+- Section 5.4, “Performance Ratio” — gives the PR and CUF values for 2023 and 2024 and discusses their changes.     2025_79513_zaverecna_prace
+- Section 6, “Conclusion” — summarizes the comparative findings and identifies optimization opportunities for Power Plant A and Power Plant B.     2025_79513_zaverecna_prace

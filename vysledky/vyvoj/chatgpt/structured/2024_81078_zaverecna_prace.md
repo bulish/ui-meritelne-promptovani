@@ -1,0 +1,15 @@
+1. Summary (190 words)
+Goal: The study provides a comprehensive analysis of food security and nutritional status in Ghana, examining trends in availability, affordability, quality and safety, sustainability and adaptation; identifying influencing factors; assessing government interventions; and evaluating progress toward SDG 1, SDG 2, and SDG 3 by 2030.     2024_81078_zaverecna_prace
+Methods: The study uses secondary data from Ghana Statistical Service surveys, FAO, WHO, the Ministry of Food and Agriculture (MoFA), and academic research. Descriptive statistics and trend analysis using frequencies, means, and percentages were applied to examine food security and nutritional outcomes.     2024_81078_zaverecna_prace
+Main results: Ghana's affordability score was 59.9, ranking 75th globally, but declined by 4.4 points since 2012. Availability scored 52.4 and improved by 9.4 points, although food loss scored 0.0. Quality and safety scored 50.5, while nutritional standards declined to 29.8. Sustainability and adaptation was the weakest pillar at 45.1. The study identifies rising food costs, weakened safety nets, poor supply-chain infrastructure, inadequate nutritional standards, low dietary diversity, weak water management, and disaster-risk vulnerabilities as major constraints. Government interventions produced improvements but faced implementation and coverage limitations.
+Conclusions: Ghana has made incremental progress, but persistent affordability, nutritional, environmental, and regional disparities mean stronger post-harvest infrastructure, national nutrition policy, social protection, and climate adaptation are required.
+2. Supporting source sections/passages
+- Aim and Methodology (Sections 2.1–2.3): defines the four research objectives and describes secondary-data sources and descriptive/trend analysis.     2024_81078_zaverecna_prace
+- Results and Discussion, Section 4.2.2 – Affordability: reports the 59.9 score and 4.4-point decline.
+- Section 4.2.3 – Availability: reports the 52.4 score, 9.4-point improvement, and 0.0 food-loss score.
+- Section 4.2.4 – Quality and Safety: reports the 50.5 score and nutritional-standards decline to 29.8.
+- Section 4.2.5 – Sustainability and Adaptation: identifies this as Ghana's weakest pillar, with a score of 45.1.
+- Section 4.3 – Key Factors Influencing Food Security and Nutritional Status: discusses food costs, safety nets, supply-chain losses, nutritional standards, dietary diversity, water management, and disaster risks.
+- Section 4.4 – Government Policies and Interventions: evaluates Planting for Food and Jobs, Ghana School Feeding Programme, One Village, One Dam, and NAFCO.     2024_81078_zaverecna_prace
+- Section 4.5 – SDG 1, 2, and 3: evaluates Ghana's progress toward the three SDGs.     2024_81078_zaverecna_prace
+- Chapter 5, Conclusion and Recommendations: synthesizes the findings and recommends post-harvest infrastructure, a national nutrition strategy, expanded social protection, climate adaptation, and targeted regional interventions.
