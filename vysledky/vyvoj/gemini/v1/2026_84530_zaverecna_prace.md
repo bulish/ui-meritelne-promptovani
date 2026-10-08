@@ -1,0 +1,7 @@
+**Goal**: This study maps the role of student movements in Thailand's pro-democracy protests during 2020–2021, examining their mobilization strategies, political environment, core demands, and governmental and societal responses.
+
+**Methods**: The research utilizes a qualitative interpretative single-case study approach framed by Social Movement Theory (SMT), analyzing secondary data such as academic literature, media reports, NGO documents, and human rights watchdogs.
+
+**Main Results**: The youth-led movement relied heavily on decentralized digital networks and platforms (Twitter, Facebook, Telegram) to coordinate actions and sustain engagement. Protesters organized over a dozen large-scale demonstrations between July and December 2020, involving hundreds of thousands of participants. Legal defense groups like Thai Lawyers for Human Rights provided pro bono support to more than 90 arrested protesters. The movement's long-term influence was reflected in the 2023 general election, where the reform-oriented Move Forward Party (MFP) won the highest number of votes and secured 151 out of 500 seats in the House of Representatives, backed by high voter turnout exceeding 75% (nearly 40 million votes) and about five million first-time voters.
+
+**Conclusions**: The authors conclude that while student movements profoundly shaped political discourse and electoral behavior by breaking long-standing political taboos, their immediate institutional impact remained constrained by resistant, unelected structures within Thailand's semi-authoritarian political system.
