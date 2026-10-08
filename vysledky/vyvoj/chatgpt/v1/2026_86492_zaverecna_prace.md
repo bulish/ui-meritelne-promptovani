@@ -1,0 +1,13 @@
+Goal
+To implement selected client-side functionalities of Mendel University in Brno’s new accreditation application, providing an easy-to-navigate interface for complex administrative requirements and reducing manual data entry through UIS integration.     2026_86492_zaverecna_prace
+Methods
+The thesis used an iterative software-development approach: existing accreditation processes and requirements were analyzed, client-side components were implemented within the Smart MENDELU development framework, and functionality was refined through stakeholder feedback. Verification combined continuous internal testing, staff testing of the Minimum Viable Product, and several days of pre-launch testing.     2026_86492_zaverecna_prace     2026_86492_zaverecna_prace
+Main results
+The implementation delivered A-I and B-I accreditation forms, a centralized approval engine, and administrative modules using Vue.js and JavaScript. The application supports centralized accreditation-file management, automated UIS data retrieval, structured input validation, role-dependent workflows, real-time status transparency, and integrated communication and approval histories. Testing identified functional errors before release; critical bugs found during the final testing period were resolved, and the application was confirmed ready for daily use and to meet the established functional requirements.     2026_86492_zaverecna_prace     2026_86492_zaverecna_prace
+Conclusions
+The authors conclude that the implemented functionalities substantially reduce manual work and improve data integrity and transparency. They recommend continued extensibility, with future extensions planned in TypeScript and eventual migration of the existing codebase.     2026_86492_zaverecna_prace
+Supporting source sections/passages
+- 1.3 Objectives and thesis goals — defines the thesis goal and intended functionalities.     2026_86492_zaverecna_prace
+- 4.5 Milestones and planning of development — describes the analysis, iterative implementation, stakeholder feedback, and testing approach.     2026_86492_zaverecna_prace
+- 8 Testing / 8.1 User testing — documents internal testing, MVP staff testing, final testing, bug resolution, and readiness for use.     2026_86492_zaverecna_prace
+- 9 Conclusion — reports the implemented functionalities, claimed improvements, and planned TypeScript migration.     2026_86492_zaverecna_prace

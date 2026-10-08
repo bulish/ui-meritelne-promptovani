@@ -1,0 +1,15 @@
+**Goal:** To document and scientifically evaluate historical/traditional wood-preservation methods, emphasizing charring, ammonia treatment, and oil paints with plant resins.
+
+**Methods:** The dissertation combines a literature review covering preservation from early human use to the first Industrial Revolution with four research articles. Experiments examined beech wood charred at 200–400°C, oak treated with ammonia gas or iron nanoparticles and artificially aged, and four linseed-oil/chromium-oxide-green paint formulations containing dammar, copal, or mastic exposed to Central European weathering for six years. Measurements addressed color, roughness, fire/decay resistance, wettability, CIELAB changes, and paint weathering.
+
+**Main results:** Charring reduced lightness (L*) by approximately 50% in radial and 42% in tangential beech; carbohydrate changes reached 6 mm depth, and charred specimens showed lower fungal weight loss. Radial roughness decreased with increasing temperature/time, whereas tangential surfaces cracked. Ammonia and iron treatments significantly darkened oak, and extractive content strongly correlated with color change. All samples photodegraded; ammonia-treated wood had the best dry-condition color stability, while iron nanoparticles had the greatest wet-weathering impact. After six years, opaque paints showed minimal color change, whereas lazure coatings varied more.
+
+**Conclusions:** Traditional methods can be effective, but outcomes depend on treatment conditions, wood orientation, and environment. Further evaluation and practical development are warranted.
+
+Source passages supporting the main claims:
+- Research objectives, Chapter 1.2: defines the aims concerning historical preservation, charring, density/wettability, ammonia treatment, and plant-resin oil paints.     2024_54614_zaverecna_prace
+- Collection of articles, Chapter 3.1: identifies the four research articles and their subjects: charred beech, charred-beech density/wettability, ammonia/iron-treated oak, and historical linseed-oil/resin paints.     2024_54614_zaverecna_prace
+- Article I / charring results: the article reports approximately 50% and 42% reductions in L* for radial and tangential specimens, respectively, changes to 6 mm depth, altered roughness, and improved fire/decay resistance.     2024_54614_zaverecna_prace
+- Article II: the embedded article examines one-sided charring at 200–400°C, density profile, and water uptake; statistically significant reduction in water uptake occurred in radial groups.     2024_54614_zaverecna_prace
+- Article III: the article evaluates CIELAB color changes and accelerated dry/wet ageing after ammonia and iron-nanoparticle treatment, including extractive-content effects and photodegradation.     2024_54614_zaverecna_prace
+- Article IV: the article compares four linseed-oil/plant-resin formulations under Central European weathering for six years; opaque coatings showed minimal color change while lazure coatings varied more.     2024_54614_zaverecna_prace

@@ -1,0 +1,12 @@
+Summary
+Goal: To monitor photovoltaic power plants and compare their operational parameters, using two industrial facilities, Power Plant A and Power Plant B, as case studies.     2025_79513_zaverecna_prace
+Methods: The study compared plant characteristics and operational performance using monitoring data and performance indicators aligned with the ČSN EN IEC 61724 framework. The analysis covered 2023–2024 and considered energy production, solar irradiation, self-consumption/grid dependence, performance ratio (PR), and area-related efficiency indicators.     2025_79513_zaverecna_prace     2025_79513_zaverecna_prace
+Main results: Power Plant A comprised 94 panels and covered 195.552 m², whereas Power Plant B had 366 panels and covered 715.53 m². A’s panel-area requirement decreased from 5.03 to 4.796 m²/kWp, while B maintained 5.13 m²/kWp. In 2023, the area-related indicator was 0.24217 m²/kWh/kWp for A versus 0.854 m²/kWh/kWp for B; in the subsequent comparison these decreased to 0.23940 and 0.727 m²/kWh/kWp. Average annual solar irradiation was 1313.4 kWh/m² for A and 1277.4 kWh/m² for B, a 2.8% difference. B’s PR increased from 0.656 in 2023 to 0.770 in 2024.     2025_79513_zaverecna_prace     2025_79513_zaverecna_prace
+Conclusions: The comparison indicates that plant configuration, solar exposure, tilt, and facility demand strongly influence operational performance; Power Plant A’s 25° tilt was considered better suited to lower sun angles.     2025_79513_zaverecna_prace
+Supporting source sections/passages
+- Thesis identification and stated subject: title and author information.     2025_79513_zaverecna_prace
+- Performance-monitoring framework: ČSN EN IEC 61724 and operational-performance indicators.     2025_79513_zaverecna_prace
+- Performance indicators and capacity-utilization calculations: energy output, annual production, and capacity utilization.     2025_79513_zaverecna_prace
+- Plant descriptions: locations, panel configuration, and tilt angles of Power Plants A and B.     2025_79513_zaverecna_prace     2025_79513_zaverecna_prace
+- Comparative quantitative results: panel areas, area-efficiency indicators, and solar irradiation.     2025_79513_zaverecna_prace
+- Performance-ratio findings and interpretation of tilt: 2023–2024 PR development and comparison of 25° versus 15° tilt.     2025_79513_zaverecna_prace     2025_79513_zaverecna_prace

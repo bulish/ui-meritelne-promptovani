@@ -1,0 +1,14 @@
+Goal
+The study examines whether early retirement affects the size of the shadow economy in Austria, Czechia, Germany, Hungary, Poland, Slovakia, and Slovenia, while also assessing shadow-economy determinants and associated tax losses over 2010–2024.     2026_83688_zaverecna_prace(1)
+Methods
+The research uses quantitative secondary macroeconomic data for 2010–2024 and estimates country-specific MIMIC (Multiple Indicators Multiple Causes) models, treating the shadow economy as a latent variable. Parameters are estimated by Maximum Likelihood in Stata 19’s SEM module; coefficients with p-value below 0.05 are considered statistically significant.     2026_83688_zaverecna_prace(1)     2026_83688_zaverecna_prace(1)
+Main results
+Retirement age had no statistically significant impact on the shadow economy in all selected countries except Hungary. In Hungary, women’s retirement age showed a statistically significant negative relationship with the shadow economy. Social security contributions were statistically significant in six of seven countries, excluding Slovakia; in five of these six countries, higher contributions were associated with a smaller shadow economy. Self-employment showed a stable inverse effect in Germany, Austria, and Poland. Personal income tax had a statistically significant positive effect in Czechia, Hungary, and Slovakia. GDP per capita was significant in Germany, Hungary, and Slovakia, while migration was positively associated with the shadow economy in Germany and Hungary.     2026_83688_zaverecna_prace(1)     2026_83688_zaverecna_prace(1)     2026_83688_zaverecna_prace(1)
+Conclusions
+The authors conclude that pension parameters alone have limited explanatory power. Reducing the shadow economy requires comprehensive policies addressing institutional quality and formal-sector incentives, with country-specific conditions considered.     2026_83688_zaverecna_prace(1)
+Supporting source sections/passages
+- Objectives (p. 13): research aim and 2010–2024 study period.     2026_83688_zaverecna_prace(1)
+- Methodology (pp. 37–40): MIMIC model, secondary data, estimation method, significance threshold, and country-specific analysis.     2026_83688_zaverecna_prace(1)     2026_83688_zaverecna_prace(1)
+- Discussion 7.1 (p. 54): retirement-age findings, including the Hungary exception.     2026_83688_zaverecna_prace(1)
+- Discussion 7.2 (pp. 55–56): statistically significant determinants, including social security contributions, self-employment, personal income tax, GDP per capita, and migration.     2026_83688_zaverecna_prace(1)     2026_83688_zaverecna_prace(1)
+- Conclusion (p. 58): overall interpretation and policy implication.     2026_83688_zaverecna_prace(1)

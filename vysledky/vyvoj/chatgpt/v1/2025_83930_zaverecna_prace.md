@@ -1,0 +1,14 @@
+**Goal:** The thesis examines the evolution of Czech foreign policy toward the Srebrenica genocide from 1995 to 2025 and the historical, political, and international factors shaping this development, including its alignment with EU policy.
+
+**Methods:** The study uses a qualitative case-study approach covering 1995–2025, combining literature review and secondary analysis of official Czech, EU, UN, and international-court materials with field research in Bosnia and Herzegovina and three semi-structured expert interviews. It also comparatively analyzes Czech and EU positions across key periods and policy areas.
+
+**Main results:** Czech policy evolved from initial uncertainty and partial denial in 1995–1999 toward stronger commitment to recognition, justice, and remembrance. Czechia supported NATO intervention by 1999 and officially recognized Srebrenica as genocide in **2005**, preceding the EU’s formal recognition in **2009**. During the 2010s, Czech policy increasingly supported reconciliation, rejected genocide denial, and aligned with EU approaches. In **2024**, Czechia supported the UN General Assembly resolution commemorating Srebrenica. Strong Czech-EU alignment emerged from the mid-2000s, particularly on recognition, transitional justice, and reconciliation, although EU education and prevention mechanisms remain more institutionalized.
+
+**Conclusions:** Czech foreign policy became more consistent and principled, shaped by national historical memory, political leadership, and UN, NATO, and EU commitments. The thesis emphasizes continued opposition to denial and stronger education and remembrance efforts.
+
+Source sections/passages supporting the main claims:
+- Goal and research scope: Introduction and “Goal of the thesis,” describing the 1995–2025 timeframe and focus on historical, political, international, and EU-alignment factors.     2025_83930_zaverecna_prace
+- Methods: Methodology section describing the qualitative case study, literature review, secondary data analysis, official sources, field research, and interviews.     2025_83930_zaverecna_prace     2025_83930_zaverecna_prace
+- Main findings: Findings section reporting the evolution from uncertainty to recognition, justice, and remembrance; recognition in 2005; and support for the 2024 UN General Assembly resolution.     2025_83930_zaverecna_prace
+- Czech–EU comparison: Findings on strong alignment from the mid-2000s, Czech recognition in 2005 versus EU recognition in 2009, and differences in institutionalized education and prevention mechanisms.     2025_83930_zaverecna_prace
+- Conclusion: Authors’ final interpretation emphasizing the shift toward a principled position based on recognition, justice, remembrance, historical experience, leadership, and international obligations.
