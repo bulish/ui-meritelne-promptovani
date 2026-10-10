@@ -10,9 +10,10 @@ Complete this worksheet before full data collection. Submit the initial version 
 
 **Roles:**
 - Libuše Babičková – dataset coordination, and data collection (Perplexity)
-- Jakub Procházka (xproch40) – prompt design, and data collection (Claude, Gemini)
+- Jakub Procházka (xproch40) – prompt design, and data collection (Claude)
 - Jan Kostrhun – metrics and analysis, and data collection (ChatGPT)
-- All three members participate in human evaluation and writing the final report
+- Daniel Holub - data collection (Gemini)
+- All four members participate in human evaluation and writing the final report
 
 **Primary track:**
 
